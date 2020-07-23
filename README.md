@@ -4,3 +4,6 @@
 
 
 ## [Contributors](./.github/CONTRIBUTING.md)
+
+* [Zinedin Mezit](https://github.com/lubenic4)
+* Enes Kazazić
